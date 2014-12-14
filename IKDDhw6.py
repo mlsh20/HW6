@@ -41,8 +41,8 @@ while True:
 			t += 1
 
 	pred_id += 1
-print "t:",
-print t
-print "f:",
-print f
+#print "t:",
+#print t
+#print "f:",
+#print f
 inputfile.close()
